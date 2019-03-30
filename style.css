@@ -1,0 +1,18 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: grey;
+}
+
+.squares__header {
+    color: white;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    margin: 8px;
+}
